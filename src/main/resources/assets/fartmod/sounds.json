@@ -1,0 +1,32 @@
+{
+  "fart1": {
+    "subtitle": "sounds.fartmod:fart1",
+    "sounds": [
+      "fartmod:fart1"
+    ]
+  },
+  "fart2": {
+    "subtitle": "sounds.fartmod:fart2",
+    "sounds": [
+      "fartmod:fart2"
+    ]
+  },
+  "fart3": {
+    "subtitle": "sounds.fartmod:fart3",
+    "sounds": [
+      "fartmod:fart3"
+    ]
+  },
+  "fart4": {
+    "subtitle": "sounds.fartmod:fart4",
+    "sounds": [
+      "fartmod:fart4"
+    ]
+  },
+  "fart5": {
+    "subtitle": "sounds.fartmod:fart5",
+    "sounds": [
+      "fartmod:fart5"
+    ]
+  }
+}
