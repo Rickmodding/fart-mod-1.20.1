@@ -1,32 +1,37 @@
 {
   "fart1": {
+    "category": "player",
     "subtitle": "sounds.fartmod:fart1",
-    "sounds": [
-      "fartmod:fart1"
-    ]
+    "sounds": ["fartmod:fart1"],
+    "stream": true
+
   },
   "fart2": {
+    "category": "player",
     "subtitle": "sounds.fartmod:fart2",
-    "sounds": [
-      "fartmod:fart2"
-    ]
+    "sounds": ["fartmod:fart2"],
+    "stream": true
+
   },
   "fart3": {
+    "category": "player",
     "subtitle": "sounds.fartmod:fart3",
-    "sounds": [
-      "fartmod:fart3"
-    ]
+    "sounds": ["fartmod:fart3"],
+    "stream": true
+
   },
   "fart4": {
+    "category": "player",
     "subtitle": "sounds.fartmod:fart4",
-    "sounds": [
-      "fartmod:fart4"
-    ]
+    "sounds": ["fartmod:fart4"],
+    "stream": true
+
   },
   "fart5": {
+    "category": "player",
     "subtitle": "sounds.fartmod:fart5",
-    "sounds": [
-      "fartmod:fart5"
-    ]
+    "sounds": ["fartmod:fart5"],
+    "stream": true
+
   }
 }
