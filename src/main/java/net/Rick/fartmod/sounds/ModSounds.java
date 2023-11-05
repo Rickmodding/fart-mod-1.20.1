@@ -14,11 +14,11 @@ public class ModSounds {
             DeferredRegister.create(ForgeRegistries.SOUND_EVENTS, fartmod.MOD_ID);
 
 
-    public static final RegistryObject<SoundEvent> FART1 = registerSoundEvents("sound_block_break");
-    public static final RegistryObject<SoundEvent> FART2 = registerSoundEvents("sound_block_step");
-    public static final RegistryObject<SoundEvent> FART3 = registerSoundEvents("sound_block_fall");
-    public static final RegistryObject<SoundEvent> FART4 = registerSoundEvents("sound_block_place");
-    public static final RegistryObject<SoundEvent> FART5 = registerSoundEvents("sound_block_hit");
+    public static final RegistryObject<SoundEvent> FART1 = registerSoundEvents("fart1");
+    public static final RegistryObject<SoundEvent> FART2 = registerSoundEvents("fart2");
+    public static final RegistryObject<SoundEvent> FART3 = registerSoundEvents("fart3");
+    public static final RegistryObject<SoundEvent> FART4 = registerSoundEvents("fart4");
+    public static final RegistryObject<SoundEvent> FART5 = registerSoundEvents("fart5");
 
 
 
