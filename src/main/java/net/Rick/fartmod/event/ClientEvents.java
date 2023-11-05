@@ -19,11 +19,11 @@ import java.util.Random;
 public class ClientEvents {
     // Define an array of SoundEvent names for your fart sounds
     private static final String[] FART_SOUND_NAMES = {
-            "fartmod.fartmod:fart1",
-            "fartmod.fartmod:fart2",
-            "fartmod.fartmod:fart3",
-            "fartmod.fartmod:fart4",
-            "fartmod.fartmod:fart5"
+            "fartmod:fart1",
+            "fartmod:fart2",
+            "fartmod:fart3",
+            "fartmod:fart4",
+            "fartmod:fart5"
     };
 
     @Mod.EventBusSubscriber(modid = fartmod.MOD_ID, value = Dist.CLIENT)
