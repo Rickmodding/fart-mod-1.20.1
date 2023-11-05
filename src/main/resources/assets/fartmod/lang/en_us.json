@@ -1,4 +1,9 @@
 {
-"key.fartmod.fart" : "Fart",
-"key.category.fartmod.fartmod": "FartMod"
+  "key.fartmod.fart" : "Fart",
+  "key.category.fartmod.fartmod": "FartMod",
+  "sounds.fartmod:fart1":"fart",
+  "sounds.fartmod:fart2":"fart",
+  "sounds.fartmod:fart3":"fart",
+  "sounds.fartmod:fart4":"fart",
+  "sounds.fartmod:fart5":"fart"
 }
